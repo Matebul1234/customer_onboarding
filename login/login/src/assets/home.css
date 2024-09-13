@@ -1,0 +1,13 @@
+.navbar-brand {
+    background-image: url("https://neoripples.com/wp-content/uploads/2022/01/NeoRipples-Logo-reverse.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 48px;
+    height: 38px;
+    cursor: pointer;
+  }
+  
+  .navbar-nav .nav-item:hover {
+    background-color: rgba(180, 190, 203, 0.4);
+  }
